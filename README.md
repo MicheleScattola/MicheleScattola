@@ -1,3 +1,4 @@
 - Michele Scattola, 21 years old
 - Undergraduate Physics student at Universitá Studi di Milano Statale - UniMi
 - Programming language: C++ and ROOT libraries
+- I will be mainly using GitHub as a personal storage for my exercises, I don't currently have any plans to create a public repository
