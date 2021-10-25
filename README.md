@@ -1,4 +1,3 @@
 - Michele Scattola, 21 years old
 - Undergraduate Physics student at Universitá Studi di Milano Statale - UniMi
 - Programming language: C++ and ROOT libraries
-- Numerical Data Analysis and Monte Carlo simulations
