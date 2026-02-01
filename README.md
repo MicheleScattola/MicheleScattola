@@ -1,4 +1,4 @@
-# Michele Scattola 👋
+# Michele Scattola 
 ### Student, e-sports analyst
 
 ***
