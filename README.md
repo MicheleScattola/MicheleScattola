@@ -18,7 +18,7 @@ My Bachelor thesis is entitled "Study of tau lepton polarization at FCC-ee with 
 Thanks to my thesis and other courses I have profound proficiency in C++ and ROOT Data Analysis Framework. Other competences are Python, Pandas, bash and LaTeX.
 
 <p>
-  <a href="https://linkedin.com/Michele Scattola" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Michele Scattola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/michele-scattola-2ba330200" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Michele Scattola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:michele.scattola@studenti.unimi.it" target="_blank"><img src="https://img.shields.io/badge/EMAIL-michele.scattolastudenti.unimi.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
