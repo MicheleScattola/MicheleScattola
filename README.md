@@ -26,7 +26,8 @@ Thanks to my thesis and other courses I have developed proficiency in C++ and RO
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas&theme=light" alt="Pandas" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </p>
