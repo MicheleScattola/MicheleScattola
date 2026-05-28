@@ -15,7 +15,7 @@ I have worked for 2 years as a team analyst in different e-sports professional t
 
 My Bachelor thesis is entitled "Study of tau lepton polarization at FCC-ee with the IDEA detector" and was written under the supervision of professor Attilio Andreazza. This work allowed me to gain important experience in the data analysis of High Energy Physics and in particular the framework of FCCAnalyses.
 
-Thanks to my thesis and other courses I have profound proficiency in C++ and ROOT Data Analysis Framework. Other competences are Python, Pandas, bash and LaTeX.
+Thanks to my thesis and other courses I have developed proficiency in C++ and ROOT Data Analysis Framework. Other field of competence are Pythonic implementations of Neural Networks via TensorFlow and code parallelization via Numba. I am also comfortable with the use of Pandas, bash and LaTeX.
 
 <p>
   <a href="https://linkedin.com/in/michele-scattola-2ba330200" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Michele Scattola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
