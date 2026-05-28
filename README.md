@@ -23,14 +23,8 @@ Thanks to my thesis and other courses I have developed proficiency in C++ and RO
 </p>
 
 ### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas&theme=light" alt="Pandas" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,linux,git,pandas,figma&theme=light)](https://skillicons.dev)
+
 
 ### 📊 GitHub Activity
 <p><img src="https://github-profile-trophy.vercel.app/?username=MicheleScattola&theme=flat" alt="trophies" /></p>
