@@ -23,7 +23,7 @@ Thanks to my thesis and other courses I have developed proficiency in C++ and RO
 </p>
 
 ### 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,linux,git,pandas,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,tensorflow,linux,git,&theme=dark)](https://skillicons.dev)
 
 
 ### 📊 GitHub Activity
