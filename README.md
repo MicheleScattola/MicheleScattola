@@ -19,7 +19,7 @@ Thanks to my thesis and other courses I have developed proficiency in C++ and RO
 
 <p>
   <a href="https://linkedin.com/in/michele-scattola-2ba330200" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Michele Scattola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:michele.scattola@studenti.unimi.it" target="_blank"><img src="https://img.shields.io/badge/EMAIL-michele.scattolastudenti.unimi.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:scattolamichele@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-michele.scattolastudenti.unimi.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 🛠️ Languages and Tools
